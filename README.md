@@ -8,25 +8,26 @@ Labbiew 2019以及以上版本
 
 ## 工程文件说明
 
-tcp-ip-Labview-demo.lvproj:工程文件，此文件为labview工程打开文件
-main.vi
+tcp-ip-Labview-demo.lvproj:工程文件，此文件为labview工程打开文件。
+main.vi：demo的主要文件，前面板实现了上使能、上电、清除报警、设置速率、MovJ和轨迹复现功能。
 
 ## 如何使用Demo
 
-使用Matlab加载脚本文件并添加到路径，机器的控制器需要使用网线连接电脑。点击运行运行脚本，可以使用help查看帮助和使用list查看支持的指令，按照指令列表描述输入指令即可。使用quit退出脚本
+使用labview打开项目工程文件tcp-ip-Labview-demo.lvproj，后打开main.vi文件点击运行。
 
-## DEMO documentation
+## DEMO description document
 
-This demo is a set of script commands written by Matlab to control the CR robot.
+This demo is a set of script commands that use LabView software to control the motion of CR robots written using LabView function.
 
 ## DEMO system requirements
 
-Matlab 2017a and above
+Labbiew 2019 and above
 
 ## Project file description
 
-CRTCPdemo.m: The script file of Matlab is used to control the movement of CR robot. The Matlab TCP communication method is used to control the robot movement. This script implements the use of most instructions
+tcp-ip-Labview-demo.lvproj: project file, this file is an open file for the labview project.
+main.vi: The main file of the demo. The front panel realizes the functions of enabling, powering on, clearing the alarm, setting the rate, MovJ and trajectory reproduction.
 
 ## How to use Demo
 
-Use Matlab to load the script file and add it to the path. The controller of the machine needs to connect to the computer with a network cable. Click Run to run the script, you can use help to view the help and use the list to view the supported instructions, and enter the instructions according to the description of the instruction list. Use quit to exit the script
+Use labview to open the project file tcp-ip-Labview-demo.lvproj, then open the main.vi file and click Run.
