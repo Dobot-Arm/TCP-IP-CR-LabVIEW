@@ -1,10 +1,10 @@
 ## DEMO说明文档
 
-本demo为使用LabView 函数编写的一套使用Labview软件控制CR机器人运动的脚本指令Demo
+本demo为使用LabView 函数编写的一套使用Labview软件控制mg400机器人运动的脚本指令Demo
 
 ## DEMO系统要求
 
-Labbiew 2019以及以上版本
+Labbiew 2017以及以上版本
 
 ## 工程文件说明
 
@@ -17,11 +17,11 @@ main.vi：demo的主要文件，前面板实现了上使能、上电、清除报
 
 ## DEMO description document
 
-This demo is a set of script commands that use LabView software to control the motion of CR robots written using LabView function.
+This demo is a set of script commands that use LabView software to control the motion of mg400 robots written using LabView function.
 
 ## DEMO system requirements
 
-Labbiew 2019 and above
+Labbiew 2017 and above
 
 ## Project file description
 
