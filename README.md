@@ -1,3 +1,5 @@
+English version of the README -> please [click here](./README-EN.md)
+
 ## DEMO说明文档
 
 本demo为使用LabView 函数编写的一套使用Labview软件控制CR机器人运动的脚本指令Demo
@@ -15,19 +17,3 @@ main.vi：demo的主要文件，前面板实现了上使能、上电、清除报
 
 使用labview打开项目工程文件tcp-ip-Labview-demo.lvproj，后打开main.vi文件点击运行。
 
-## DEMO description document
-
-This demo is a set of script commands that use LabView software to control the motion of CR robots written using LabView function.
-
-## DEMO system requirements
-
-Labbiew 2019 and above
-
-## Project file description
-
-tcp-ip-Labview-demo.lvproj: project file, this file is an open file for the labview project.  
-main.vi: The main file of the demo. The front panel realizes the functions of enabling, powering on, clearing the alarm, setting the rate, MovJ and trajectory reproduction.
-
-## How to use Demo
-
-Use labview to open the project file tcp-ip-Labview-demo.lvproj, then open the main.vi file and click Run.
