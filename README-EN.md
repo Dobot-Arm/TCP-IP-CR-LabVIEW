@@ -1,3 +1,5 @@
+Chinese version of the README -> please [click here](./README.md)
+
 ## About version matching instructions
 This Demo is applicable to V3.5.2 and above controller version of CR series.
 
