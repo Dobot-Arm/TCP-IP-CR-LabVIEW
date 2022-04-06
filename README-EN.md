@@ -1,3 +1,6 @@
+## About version matching instructions
+This Demo is applicable to V3.5.2 and above controller version of CR series.
+
 ## DEMO description document
 
 This demo is a set of script commands that use LabView software to control the motion of CR robots written using LabView function.
