@@ -8,9 +8,8 @@ Labbiew 2019 and above
 
 ## Project file description
 
-tcp-ip-Labview-demo.lvproj: project file, this file is an open file for the labview project.  
-main.vi: The main file of the demo. The front panel realizes the functions of enabling, powering on, clearing the alarm, setting the rate, MovJ and trajectory reproduction.
+main_cr.vi: The main file of the demo. The front panel realizes the functions of enabling, powering on, clearing the alarm, setting the rate, MovJ and trajectory reproduction.
 
 ## How to use Demo
 
-Use labview to open the project file tcp-ip-Labview-demo.lvproj, then open the main.vi file and click Run.
+Use labview to open the file the main.vi,Then click program Run button to run.
